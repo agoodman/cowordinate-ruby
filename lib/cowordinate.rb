@@ -1,0 +1,2 @@
+require 'cowordinate/word'
+
